@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: f7e50a30e5e704f9a9e367342ce1656a, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 08fee6768e0324aeda7a1d43efc077a7, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -4083,8 +4083,8 @@ MonoBehaviour:
   invalidCollisionColor: {r: 0.54509807, g: 0.14901961, b: 0.20784314, a: 1}
   tracerVisibility: 0
   cursorVisibility: 0
-  maximumLength: {x: 10, y: Infinity}
-  tracerDensity: 25
+  maximumLength: {x: 5, y: Infinity}
+  tracerDensity: 50
   cursorRadius: 0.5
   heightLimitAngle: 25
   curveOffset: 1
@@ -4364,10 +4364,10 @@ MonoBehaviour:
   invalidCollisionColor: {r: 0.54509807, g: 0.14901961, b: 0.20784314, a: 1}
   tracerVisibility: 0
   cursorVisibility: 0
-  maximumLength: {x: 10, y: Infinity}
-  tracerDensity: 10
+  maximumLength: {x: 5, y: Infinity}
+  tracerDensity: 50
   cursorRadius: 0.5
-  heightLimitAngle: 100
+  heightLimitAngle: 25
   curveOffset: 1
   rescaleTracer: 1
   cursorMatchTargetRotation: 1
