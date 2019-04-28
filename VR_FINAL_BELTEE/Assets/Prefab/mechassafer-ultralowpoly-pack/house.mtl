@@ -1,0 +1,128 @@
+# Wavefront MTL
+# Created by fragMOTION 1.3.4
+# http://www.fragmosoft.com
+
+newmtl unassigned
+illum 2
+d 1
+ka 1 1 1
+kd 1 1 1
+ks 0 0 0
+ke 0 0 0
+ns 0
+newmtl Texture
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 0
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\f1.png
+newmtl Texture1
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 0
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\w1.png
+newmtl Black
+illum 2
+d 1
+ka 0 0 0
+kd 0 0 0
+ks 0 0 0
+ke 0 0 0
+ns 0
+newmtl Texture2
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 0
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\w2.png
+newmtl Texture3
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 128
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\wd1.png
+newmtl Texture4
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 128
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\wd2.png
+newmtl Texture5
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 0
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\d1.png
+newmtl Texture6
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 0
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\f2.png
+newmtl Texture7
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 0
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\d2.png
+newmtl Texture8
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 128
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\wd3.png
+newmtl Texture9
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 128
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\wd4.png
+newmtl Texture10
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 128
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\wd5.png
+newmtl msc
+illum 2
+d 1
+ka 0.752941 0.752941 0.752941
+kd 0.752941 0.752941 0.752941
+ks 0 0 0
+ke 0 0 0
+ns 0
+map_kd C:\Users\Kevin\Dropbox\Zodiac Z Engine\media\msc1.png
